@@ -1,0 +1,31 @@
+These are the kexts I am using in respective order:
+
+irportltlwm.kext
+MDRyzenCPUPowerManagement.kext
+mdTscSync.kext
+ppleALC.kext
+pplelGB.kext
+ppleMCEReporterDisabler.kext
+lueToolFixup.kext
+rightnessKeys.kext
+enericUSBXHCI.kext
+ntelBluetoothFirmware.kext
+ntelBTPatcher.kext
+ntelSnowMausi.kext
+tlwm.kext
+ilu.kext
+ootedRed.kext
+ealtekRTL8111 .kext
+estrictEvents.kext
+mallTreelnte182576.kext
+MCAMDProcessor.kext
+MCBatteryManager.kext
+MCLightSensor.kext
+MCRadeonGPU.kext
+SBToolBox.kext
+TBMap.kext
+irtualSMC.kext
+ood0012C.kext
+ood0012CHlD.kext
+oodooPS2Controller.kext
+hateverGreen.kext
